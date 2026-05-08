@@ -16,7 +16,14 @@ main {
         width: 50%;
         align-items: center;
         justify-content: space-around;
+        font-family: 'Figtree', serif;
     }
+        #left-side h1 {
+            font-family: 'Merriweather Sans', sans-serif;
+        }
+        #left-side h3 {
+            font-family: 'Lobster Two', sans-serif;
+        }
         .languages-frameworks {
             display: flex;
             flex-direction: column;
